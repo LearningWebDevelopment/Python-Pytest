@@ -9,3 +9,4 @@
 4. [Pytest-Plugins](https://opensource.com/article/18/6/pytest-plugins)
 5. [Python testing Reference](https://www.fullstackpython.com/testing.html)
 6. [Pytest-Plugins](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
+7. [Pytest Fixture Doc](https://docs.pytest.org/en/6.2.x/fixture.html)
