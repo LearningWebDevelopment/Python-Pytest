@@ -8,3 +8,4 @@
    pytest-cov adds coverage support for pytest to show which lines of code have been tested and which have not. It will also include the percentage of test coverage for your project.
 4. [Pytest-Plugins](https://opensource.com/article/18/6/pytest-plugins)
 5. [Python testing Reference](https://www.fullstackpython.com/testing.html)
+6. [Pytest-Plugins](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
